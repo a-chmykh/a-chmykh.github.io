@@ -1,0 +1,20 @@
+.back{
+    background:beige;
+}
+
+.whatever_I_want{
+    border-style:solid;
+    border-width:5px;
+    border-color:red;
+    background:lightblue;
+    padding:20px;
+    margin:20px;
+}
+
+#Location{
+    color:green;
+}
+
+#Mission{
+    color:purple;
+}
